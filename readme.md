@@ -5,7 +5,7 @@ This is a simple weather application built using [Flet](https://flet.dev/) and [
 ## Features
 - 🌡️ Fetch real-time weather data (temperature, humidity, weather description)
 - 📍 Display city location on a map using OpenStreetMap tiles
-- 🗺️ Move the map to the searched city's coordinates with smooth animation
+- 🗪️ Move the map to the searched city's coordinates with smooth animation
 - 📱 Mobile-friendly responsive UI
 
 ## Installation
@@ -45,11 +45,10 @@ weather-app-flet/
 ├── README.md        # Project documentation
 ```
 
-## Building an APK
-To build an APK for Android, use:
-```sh
-flet build apk
-```
+## Download App
+You can download the APK from the following link:
+[WeatherApp Download](https://www.mediafire.com/file/ifqmpgud6o8n4j6/WeatherApp.apk/file)
 
 ## License
 This project is licensed under the MIT License.
+
